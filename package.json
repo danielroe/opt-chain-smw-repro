@@ -1,0 +1,16 @@
+{
+  "name": "opt-chain-smw",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.8.2",
+    "nuxt-edge": "latest"
+  },
+  "devDependencies": {}
+}
